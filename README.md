@@ -28,3 +28,10 @@ The user enters two numbers, clicks the **Add** button, and the result is displa
 - C++
 - Qt Quick (QML)
 - Qt Creator IDE
+
+  ---
+
+  ## Screenshot
+  ![App Screenshot](screenshot.png)
+
+
