@@ -34,4 +34,4 @@ The user enters two numbers, clicks the **Add** button, and the result is displa
   ## Screenshot
   ![App Screenshot](screenshot.png)
 
-
+---
